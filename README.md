@@ -15,6 +15,6 @@ Integrated active sampling strategies to optimize computational load and enhance
 
 Output:
 
-![image](https://github.com/user-attachments/assets/72f0951c-46a4-483b-b146-1c21c15aa7fe)
+![image](https://github.com/user-attachments/assets/8ea6404c-9b33-47fa-a75d-6b7752880f61)
 
 
