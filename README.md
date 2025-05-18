@@ -13,3 +13,8 @@ Designed and implemented an adaptive keyframe selection algorithm, reducing the 
 
 Integrated active sampling strategies to optimize computational load and enhance image reconstruction accuracy, enabling real-time performance on embedded platforms.
 
+Output:
+
+![image](https://github.com/user-attachments/assets/72f0951c-46a4-483b-b146-1c21c15aa7fe)
+
+
