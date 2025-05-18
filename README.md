@@ -1,5 +1,1 @@
- Through this project, my objective is to demonstrate the viability of utilizing a multi-layer perceptron (MLP) as the
- underlying scene representation for a simultaneous localization and mapping (SLAM) algorithm. Our project incorporates the keyframe
- structure, examines the comparison between positional encoding and Gaussian encoding, and sheds light on the implementation of the
- algorithm on an F-1/10th car for localization purposes. We operate under the assumption of lacking prior data, with the MLP constructing
- a dense map dynamically as images become accessible to it
+This project aims to demonstrate the viability of using a Multi-Layer Perceptron (MLP) as the core scene representation in a Simultaneous Localization and Mapping (SLAM) framework. Our approach integrates a keyframe-based architecture and investigates the comparative effectiveness of positional encoding versus Gaussian encoding for spatial representation. Furthermore, we explore the deployment of the algorithm on an F1/10th-scale autonomous vehicle for real-time localization. Operating under the constraint of no prior map data, the MLP incrementally constructs a dense scene representation as visual input becomes available, enabling dynamic, data-driven mapping and localization in unknown environments.
