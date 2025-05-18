@@ -8,6 +8,9 @@ Adaptive Keyframe Selection: Designed and implemented an adaptive keyframe selec
 
 Active Sampling Strategies: Integrated active sampling strategies to optimize computational load and enhance image reconstruction accuracy, enabling real-time performance on embedded platforms.
 
+![image](https://github.com/user-attachments/assets/97ed5122-c2ba-43ae-87f6-80421b69f02d)
+
+
 🛠️ Technical Highlights
 Scene Representation: Utilizes a 4-layer MLP as the sole scene representation, dynamically building a dense map without prior data.
 
